@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ASE Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>ASE Dashboard</h1>
+  <p>Welcome to Promask YouTube Strategist Analytics System.</p>
+
+  <div id="data">
+    <button id="connectBtn">Connect Your YouTube Channel</button>
+    <div id="stats"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
